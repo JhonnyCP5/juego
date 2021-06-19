@@ -1,0 +1,30 @@
+
+/* ------------------------- */
+/* ESTILOS PAGINA INDEX */
+/* ------------------------- */
+body{
+    background: url(../imagenes/principal.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+/* ------------------------- */
+/* ESTILOS DEL TEXTO */
+/* ------------------------- */
+.banner img{
+    width: 20%;
+   
+}
+.banner {
+   position: relative;
+		
+}
+.banner .contenedor{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+    color: #fff;
+    text-align: center;
+		
+}
