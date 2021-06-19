@@ -32,12 +32,12 @@ document.addEventListener("DOMContentLoaded", () => {
 			};
 			this.imagenes = {
 				comida: "https://i.ibb.co/34Qhfgg/comida2.png",
-				paredIzquierda: "https://image.ibb.co/n0FDLm/paredIzquierda_resized.png",
-				paredDerecha: "https://image.ibb.co/j21nfm/paredDerecha_resized.png",
-				paredArriba: "https://image.ibb.co/cxrW6R/paredAbajo_resized.png",
-				paredAbajo: "https://image.ibb.co/hhar6R/paredArriba_resized.png",
+				paredIzquierda: "https://i.ibb.co/ZN04WKD/pared.png",
+				paredDerecha: "https://i.ibb.co/BcLP1f6/pared-Derecha.png",
+				paredArriba: "https://i.ibb.co/ymzt0XC/pared-Abajo.png",
+				paredAbajo: "https://i.ibb.co/HdzxhVK/pared-Arriba.png",
 				cuadroVerde: "https://i.ibb.co/VpFH38p/gusano.png",
-				pera: "https://image.ibb.co/gTiND6/snake_food.png",
+				pera: "https://i.ibb.co/34Qhfgg/comida2.png",
 				raton: "https://image.ibb.co/e9jq0m/Greedy_Mouse_sprite.png",
 				roca:
 					"https://image.ibb.co/e9jq0m/Greedy_Mouse_sprite.png"
