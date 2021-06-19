@@ -15,8 +15,7 @@ body{
    
 }
 .banner {
-   position: relative;
-		
+   position: relative;		
 }
 .banner .contenedor{
     position: absolute;
@@ -27,4 +26,26 @@ body{
     color: #fff;
     text-align: center;
 		
+}
+/* ------------------------- */
+/* ESTILOS JUEGO*/
+/* ------------------------- */
+
+
+canvas{
+	background: url(../imagenes/fondo2.jpg);
+}
+
+html, body{
+	height: 100%;
+	width: 100%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#canvas{
+	display: block;
 }
